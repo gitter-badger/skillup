@@ -1,4 +1,5 @@
 # HTML化したものは[Github Pages](http://team-lab.github.io/skillup/)にあります。
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/team-lab/skillup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 * 何故か内容が古いのですが原因を知っている方がいれば教えてください。
 
